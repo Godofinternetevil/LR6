@@ -66,4 +66,4 @@
 
 12. Сделаем финальный коммит и зальем на GitHub.
 
-**Вывод:** _В лабраторной работе я научился использовать такие методы работы с git, как git add, git clone, git log, git branch, git merge, git checkout._
+**Вывод:** _В лабраторной работе я научился использовать такие методы работы с git, как git add, git clone, git log, git branch, git merge, git checkout ._
